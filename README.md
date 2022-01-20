@@ -3,7 +3,7 @@
 ## This repository is the work I have done during my time as an intern for LetsGrowMore(LGM).
 
 ## Task_1: Create a single page website.
-In the task 1 I have to create a single page website, that have the section like Header, Home, About, Projects, Pricing, Videos, Team, Contact and Footer.
+In the Task First I have to create a single page website, that have the section like Header, Home, About, Projects, Pricing, Videos, Team, Contact and Footer.
 
 #### Web Technologies Used:
 HTML,
